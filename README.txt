@@ -2,10 +2,10 @@ Project created for the Security and Reliability subject in college.
 Grade: 19.25/20
 Resources Used:
 	Java
-  MultiClient Server mechanisms
-  Encryption and decryption algorithms
-  Blockchain mechanisms
-  Backups and logs mechanisms
+ 	MultiClient Server mechanisms
+  	Encryption and decryption algorithms
+  	Blockchain mechanisms
+  	Backups and logs mechanisms
   
 How to Compile:
 javac TintolmarketServer.java
