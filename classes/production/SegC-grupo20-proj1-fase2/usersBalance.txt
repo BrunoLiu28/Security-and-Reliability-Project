@@ -1,0 +1,9 @@
+grupo20:200.0
+client1:200.0
+client1:200.0
+client1:200.0
+client1:200.0
+client1:200.0
+client1:200.0
+client1:200.0
+client1:200.0
